@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d27a7224482f9ded",
+        "id": "8cb99053d122a919",
         "type": "tabs",
         "children": [
           {
-            "id": "faa9de74e32c3a66",
+            "id": "3f7d1247dacbf4c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "八股文/CSS/未命名.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc6a2e776d8098fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
+                "file": "八股文/CSS/Test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "八股文/CSS/未命名.md",
+                "file": "八股文/CSS/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八股文/CSS/未命名.md",
+                "file": "八股文/CSS/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,16 +126,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "八股文/CSS/未命名.md"
+                "file": "八股文/CSS/Test.md"
               }
             }
+          },
+          {
+            "id": "c82e1cfe2c85aee4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,10 +155,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "faa9de74e32c3a66",
+  "active": "3f7d1247dacbf4c9",
   "lastOpenFiles": [
+    "未命名.canvas",
     "未命名.md",
-    "八股文/CSS/未命名.md",
+    "八股文/CSS/Test.md",
     "八股文/其他",
     "八股文/Node",
     "八股文/基础/网络",
@@ -176,7 +172,6 @@
     "八股文/工程化",
     "2023-02-15.md",
     "React native.md",
-    "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
     "2023-02-13.md"
