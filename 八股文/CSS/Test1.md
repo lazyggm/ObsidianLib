@@ -1,6 +1,6 @@
 ```javascript
 function fn1 (){
-	console.log('12')
+	console.log('123')
 }
 ```
 ```typescript
