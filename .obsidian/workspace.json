@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "f05320f295974e42",
+    "type": "split",
+    "children": [
+      {
+        "id": "d27a7224482f9ded",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faa9de74e32c3a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "八股文/CSS/未命名.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc6a2e776d8098fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb3c0b79a28fce4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8be46000358b2e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ad533c6fdc12d9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f0f5d5c00e42a0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9db84f45e79118c3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9627462d1d3fdb2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "263b68f3ca2c189f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79f67f025895e6ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "八股文/CSS/未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "435bd2fc506bb448",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "八股文/CSS/未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd7130d9ad3a9060",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3d67e68f5d5224fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "八股文/CSS/未命名.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "faa9de74e32c3a66",
+  "lastOpenFiles": [
+    "未命名.md",
+    "八股文/CSS/未命名.md",
+    "八股文/其他",
+    "八股文/Node",
+    "八股文/基础/网络",
+    "八股文/基础/操作系统",
+    "八股文/基础",
+    "八股文/框架/Redux",
+    "八股文/框架/Vue",
+    "八股文/框架/React",
+    "八股文/框架",
+    "八股文/工程化",
+    "2023-02-15.md",
+    "React native.md",
+    "未命名.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "2023-02-13.md"
+  ]
+}
