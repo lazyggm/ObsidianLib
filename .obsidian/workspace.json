@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8cb99053d122a919",
+        "id": "0542f15bbddabb88",
         "type": "tabs",
         "children": [
           {
-            "id": "3f7d1247dacbf4c9",
+            "id": "b78ccd7df8adecbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,11 +155,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3f7d1247dacbf4c9",
+  "active": "b78ccd7df8adecbf",
   "lastOpenFiles": [
+    "八股文/CSS/Test1.md",
     "未命名.canvas",
     "未命名.md",
-    "八股文/CSS/Test1.md",
     "八股文/其他",
     "八股文/Node",
     "八股文/基础/网络",
